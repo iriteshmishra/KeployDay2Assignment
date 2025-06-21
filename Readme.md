@@ -1,3 +1,25 @@
+
+## 🛠️ Features
+
+- Create, Read, Update, and Delete (CRUD) user data
+- MongoDB integration for persistent storage
+- Optional frontend integration
+- Postman collection included for easy testing
+
+---
+
+## 🛠️ Set Up Your Project
+
+### A. Tech Stack I have used is
+
+- **Backend**: Node.js + Express  
+- **Database**: MongoDB (with Mongoose)  
+
+- **Testing**:  Postman  
+- **Docs**: README.md 
+
+---
+
 ### Endpoints:
 
 - `GET /api/users` – Get all users
