@@ -1,8 +1,3 @@
-# Custom User API
-
-http://localhost:8000/api/users
-
-
 ### Endpoints:
 
 - `GET /api/users` – Get all users
