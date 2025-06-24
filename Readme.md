@@ -1,10 +1,17 @@
 
+## About Project
+This project is a custom REST API server built with **Node.js**, **Express**, and **MongoDB** (via Mongoose). It allows clients to perform CRUD operations on user data, and includes a full testing suite with unit, integration, and API tests using Jest and Supertest.
+
 ## 🛠️ Features
 
 - Create, Read, Update, and Delete (CRUD) user data
 - MongoDB integration for persistent storage
 - Optional frontend integration
 - Postman collection included for easy testing
+- Full testing suite with unit, integration, and API tests.
+- Postman collection included for API testing
+- Test coverage report generated on every test run
+
 
 ---
 
@@ -34,3 +41,10 @@
 ```bash
 npm install
 node index.js
+```
+
+### Run All Tests
+```bash
+npm test
+```
+
